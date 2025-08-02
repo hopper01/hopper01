@@ -1,46 +1,63 @@
-Hi 👋 My name is Anand Dhawan
-=============================
+<h1 align="center">Hey, I'm Anand Dhawan 👋</h1>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [anand.dhawan01@gmail.com](mailto:anand.dhawan01@gmail.com)
-
-<a href="https://www.github.com/hopper01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hopper01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  Senior Software Engineer @ Wingify (VWO)  
+  <br/> Experimentation · SDK Architecture · Web Performance & Infra  
+  <br/> 📍 Bangalore, India
 </p>
 
+---
 
-### Socials
+### 🧠 About Me
 
-<p align="left"> <a href="https://www.github.com/hopper01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anand-dhawan-hopper01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+I'm a systems-focused software engineer who enjoys building things that scale — from SDKs and APIs to edge logic and real-time A/B testing infra.
 
-### Badges
+At Wingify (VWO), I work on the JavaScript engine that powers global experimentation and personalization for thousands of businesses. I build fullstack features, architect modular client libraries, and maintain dynamic CDN integrations.
 
-<b>My GitHub Stats</b>
+When I'm not writing code, I’m either chasing mountain trails or experimenting with frontend architecture and browser internals for fun.
 
-<a href="http://www.github.com/hopper01"><img src="https://github-readme-stats.vercel.app/api?username=hopper01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hopper01's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/hopper01"><img src="https://activity-graph.herokuapp.com/graph?username=hopper01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🔧 What I Build & Explore
 
-### Support Me
+- End-to-end SDKs for client–CDN–server experimentation flows  
+- Microtools and fullstack apps to try new architecture ideas  
+- Real-time debugging utilities for performance and data tracing  
+- Browser-based UIs with edge-focused personalization logic
 
-<a href="https://www.buymeacoffee.com/hopper"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
+
+### 🛠️ Tech I Use
+
+**Languages:** TypeScript, JavaScript, Lua, HTML, CSS  
+**Frontend:** React, Angular, Redux, RxJS, SPA Routing, Microfrontends  
+**Backend & Infra:** REST APIs, MongoDB, CDN Logic (OpenResty), Google Cloud  
+**Tooling:** Rollup, Jenkins CI, Docker, Git  
+**Core Concepts:** Event-Driven Architecture, CI/CD, A/B Testing, Personalization, Web Performance
+
+---
+
+### 📈 GitHub Stats
+
+<a href="http://www.github.com/hopper01">
+  <img src="https://github-readme-stats.vercel.app/api?username=hopper01&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+</a>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:anand.dhawan01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anand-dhawan-hopper01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/hopper01"><img src="https://img.shields.io/github/followers/hopper01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <a href="https://cal.com/anand-dhawan"><img src="https://img.shields.io/badge/Schedule a Call-000000?style=for-the-badge&logo=calcom&logoColor=white" /></a>
+</p>
+
+---
+
+### ☕ Support
+
+If you like my work or just want to support what I do:
+
+<a href="https://www.buymeacoffee.com/hopper"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
