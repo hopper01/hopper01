@@ -48,8 +48,8 @@ When I'm not writing code, I’m either chasing mountain trails or experimenting
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:anand.dhawan01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anand-dhawan-hopper01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:connect.ananddhawan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/anand-dhawan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/hopper01"><img src="https://img.shields.io/github/followers/hopper01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   <a href="https://cal.com/anand-dhawan"><img src="https://img.shields.io/badge/Schedule a Call-000000?style=for-the-badge&logo=calcom&logoColor=white" /></a>
 </p>
