@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anand Dhawan 👋</h1>
 
 <p align="center">
-  Senior Software Engineer @ Wingify (VWO)  
+  Senior Software Engineer @ Wingify
   <br/> Experimentation · SDK Architecture · Web Performance & Infra  
   <br/> 📍 Bangalore, India
 </p>
